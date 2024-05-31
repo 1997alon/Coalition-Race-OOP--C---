@@ -8,5 +8,4 @@ Features:
 - Agents and Policies: Each party is managed by agents with selection policies (Mandates or Edge Weight).
   Agents offer neighboring parties to join their coalition based on these policies.
 - Party States: Parties transition through states (Waiting, CollectingOffers, Joined) and decide on coalition offers using join policies (Mandates or Last Offer).
-- Multithreading: Handles multiple agents simultaneously to enhance real-time gameplay.
 - Configuration and Logging: Customizable settings and detailed logging for game actions and events.
